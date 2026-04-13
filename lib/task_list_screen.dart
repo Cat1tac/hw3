@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 import 'task.dart';
 import 'task_service.dart';
-import '../theme/app_theme.dart';
-import '../widgets/task_tile.dart';
-import '../widgets/subtask_panel.dart';
+import 'app_theme.dart';
+import 'task_tile.dart';
+import 'subtask_panel.dart';
 
 class TaskListScreen extends StatefulWidget {
   const TaskListScreen({super.key});
